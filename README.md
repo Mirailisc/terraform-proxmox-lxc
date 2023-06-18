@@ -14,3 +14,5 @@ run this command
 ```bash
 terraform plan -var-file="secret.tfvars" && terraform apply -var-file="secret.tfvars"
 ```
+
+![cun](https://github.com/Mirailisc/terraform-proxmox/blob/main/image.jpg?raw=true)
